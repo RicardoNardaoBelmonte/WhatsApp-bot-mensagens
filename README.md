@@ -13,6 +13,9 @@ Este script automatiza o envio de mensagens pelo WhatsApp Web. Ele lê os númer
 
 - time → Controla os intervalos entre as ações  
 
+## API Utilizada  
+Este script utiliza a API do **WhatsApp Web** para enviar mensagens. A URL `https://api.whatsapp.com/send?phone=<número>` é a forma oficial de abrir uma conversa com um número específico diretamente no WhatsApp Web.  
+
 ## Como Usar  
 Instale as dependências necessárias:  
    ```bash
