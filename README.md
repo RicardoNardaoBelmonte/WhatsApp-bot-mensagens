@@ -3,14 +3,14 @@ Este script automatiza o envio de mensagens pelo WhatsApp Web. Ele lê os númer
 
 
 ## Tecnologias Utilizadas  
-- Python 3.x → Linguagem principal do script  
+- Python  → Linguagem principal do script  
 
 - webbrowser → Abre links no navegador  
 
 - pyautogui → Simula cliques e digitação  
 
 - json → Lê os números de um arquivo externo 
- 
+
 - time → Controla os intervalos entre as ações  
 
 ## Como Usar  
